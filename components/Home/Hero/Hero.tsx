@@ -3,7 +3,7 @@
 import React from 'react';
 import HeroContent from './HeroContent';
 import HeroImage from './HeroImage';
-// import HeroImage from './HeroImage';
+
 
 const Hero = () => {
     return (
@@ -14,8 +14,8 @@ const Hero = () => {
             <HeroContent />
         </div>
         <div className='pl-4 lg:pl-8'>
-            {/* <HeroImage /> */}
-            <HeroImage></HeroImage>
+            <HeroImage />
+            
         </div>
     </div>
 </div>
