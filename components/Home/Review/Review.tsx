@@ -66,7 +66,7 @@ const Review = () => {
                     <div className='flex items-center justify-center xl:justify-start mt-8'>
                         <p className='text-white font-bold text-5xl mr-4'>99%</p>
                         <p className='text-white text-center xl:text-left'>
-                            Student's Complete <br /> Course Successfully
+                            Student Complete <br /> Course Successfully
                         </p>
                     </div>
                 </div>
