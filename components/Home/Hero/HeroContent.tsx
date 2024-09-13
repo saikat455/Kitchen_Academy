@@ -65,7 +65,7 @@ const HeroContent = () => {
     return (
         <div>
             <h1 
-                className='text-2xl sm:text-4xl md:text-5xl lg:text-4xl xl:text-7xl font-bold md:leading-[3rem] lg:leading-[3.5rem] xl:leading-[4rem] text-white text-center lg:text-left'
+                className='text-2xl sm:text-4xl md:text-4xl lg:text-4xl xl:text-4xl font-bold md:leading-[3rem] lg:leading-[3.5rem] xl:leading-[4rem] text-white text-center lg:text-left'
             >
                 Explore, Learn, and Master the Art of Cooking with Us!
             </h1>
