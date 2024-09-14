@@ -3,7 +3,7 @@
 export const coursesData = [
   {
     id: 1,
-    image: "/images/c1.jpg",
+    image: "/images/c1.webp",
     title: "Mastering Italian Classics",
     price: 49.99,
     author: "Mario Rossi",
@@ -14,7 +14,7 @@ export const coursesData = [
   },
   {
     id: 2,
-    image: "/images/c2.jpg",
+    image: "/images/c2.webp",
     title: "Quick Weeknight Dinners",
     price: 69.99,
     author: "Laura Green",
@@ -25,7 +25,7 @@ export const coursesData = [
   },
   {
     id: 3,
-    image: "/images/c3.jpg",
+    image: "/images/c3.webp",
     title: "Vegan Baking Essentials",
     price: 59.99,
     author: "Sarah Miller",
@@ -36,7 +36,7 @@ export const coursesData = [
   },
   {
     id: 4,
-    image: "/images/c4.jpg",
+    image: "/images/c4.webp",
     title: "Grilling Techniques for Beginners",
     price: 55.99,
     author: "Mark Thompson",
@@ -47,7 +47,7 @@ export const coursesData = [
   },
   {
     id: 5,
-    image: "/images/c5.jpg",
+    image: "/images/c5.webp",
     title: "Flavors of Asia: A Culinary Journey",
     price: 79.99,
     author: "Aiko Tanaka",

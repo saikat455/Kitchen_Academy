@@ -71,12 +71,12 @@ const HeroContent = () => {
             </h1>
     
             <p 
-                className='mt-6 text-sm md:text-base text-white text-opacity-60 text-center lg:text-left'
+                className='mt-2 text-sm md:text-base text-white text-opacity-60 text-center lg:text-left'
             >
                 Join our cooking course to master recipes, explore culinary techniques, and enhance your skills with expert guidance and community support.
             </p>
     
-            <div className='mt-8 flex justify-center lg:justify-start items-center space-x-4'>
+            <div className='mt-6 flex justify-center lg:justify-start items-center space-x-4'>
                 <button 
                     className='button_cls bg-green-700 hover:bg-green-900'
                 >
@@ -89,7 +89,7 @@ const HeroContent = () => {
                 </button>
             </div>
     
-            <div className='flex justify-center lg:justify-start items-center flex-wrap space-x-16 mt-8'>
+            <div className='flex justify-center lg:justify-start items-center flex-wrap space-x-16 mt-6'>
                 <div>
                     <p className='md:text-xl lg:text-2xl text-base text-white font-bold'>250+</p>
                     <p className='w-[100px] h-[3px] bg-green-600 mt-2 mb-2 rounded-lg'></p>

@@ -29,7 +29,7 @@ const Nav = ({ openNav }: Props) => {
         <div className={`fixed ${navBg ? "bg-slate-500" : "bg-transparent"} w-full transition-all duration-200 h-[12vh] z-[1000]`}>
             <div className='flex items-center h-full justify-between w-[80%] xl:w-[80%] mx-auto'>
                 
-                <Image src="/images/logo.png" alt="Logo" width={100} height={80} className='mt-6'/>
+                <Image src="/images/logo.png" alt="Logo" width={100} height={80} className='mt-5'/>
                 
                 <div className='hidden lg:flex items-center space-x-6'>
                     {navLinks.map((link) => (
