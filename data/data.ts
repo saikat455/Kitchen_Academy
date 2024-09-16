@@ -58,7 +58,7 @@ export const coursesData = [
   },
   {
     id: 6,
-    image: "/images/c6.jpg",
+    image: "/images/c6.webp",
     title: "Perfect Pastries and Desserts",
     price: 45.99,
     author: "Emma Williams",
